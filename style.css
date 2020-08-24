@@ -1,0 +1,95 @@
+
+
+@import url('http://fonts.googleapis.com/css?family=Kalam');
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+
+
+
+
+#title {
+  color: white;
+    background-color: #78B7EE;
+    margin: -15px 50px 0px 50px;
+    text-align: center;
+  padding: 30px;
+  }
+
+#img-caption {
+  
+  font-size: 20px;
+  padding: 30px;
+  }
+
+#tribute-info {
+  color: black;
+    background-color: white;
+    margin: 30px 120px 0px 120px;
+    
+  padding: 40px;
+  }
+
+.factbox{
+  background-color: grey;
+  margin: 20px 120px 20px 120px;
+  padding: 30px;
+}
+
+.quotebox{
+  color: black;
+background-color: white;
+  margin: 40px 120px 0px 120px;
+  padding: 15px;
+  }
+
+h1 {
+font-family: Audiowide;
+  font-size: 80px;
+  }
+
+h2 {
+    font-family: Kalam;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  }
+
+h3 {
+  font-family: 'Libre Baskerville', serif;
+  color: black;
+  font-size: 16px;
+  text-align: justify;
+}
+
+h4 {
+  font-family: 'Kalam';
+  font-size: 16px;
+  color: black;
+  }
+  
+h5 {
+  font-family: 'Libre Bakersville', serif;
+  font-size: 16px;
+  color: white;
+}
+
+
+#img-div {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+img {
+  width: 80%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  max-width: 600px;
+ }
+
+body {
+  margin-top: 60px;
+  
+}
+
